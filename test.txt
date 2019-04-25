@@ -1,2 +1,3 @@
 This is test file
 Commit in develop branch
+Commit in feature/new branch
